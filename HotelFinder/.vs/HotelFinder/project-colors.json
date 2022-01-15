@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8bfd591-3230-45b1-a9c8-7d53d66a807e": {
+      "ProjectGuid": "a8bfd591-3230-45b1-a9c8-7d53d66a807e",
+      "DisplayName": "HotelFinder",
+      "ColorIndex": 0
+    },
+    "073a0521-9115-4fc4-b79c-681e8936ff5a": {
+      "ProjectGuid": "073a0521-9115-4fc4-b79c-681e8936ff5a",
+      "DisplayName": "HotelFinder.API",
+      "ColorIndex": 1
+    },
+    "1f66ea77-4052-422b-9b2b-219ff7dfa27f": {
+      "ProjectGuid": "1f66ea77-4052-422b-9b2b-219ff7dfa27f",
+      "DisplayName": "HotelFinder.DataAccess",
+      "ColorIndex": 2
+    },
+    "93cc2450-5692-4674-b915-0dd58fdd0455": {
+      "ProjectGuid": "93cc2450-5692-4674-b915-0dd58fdd0455",
+      "DisplayName": "HotelFinder.Entity",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
